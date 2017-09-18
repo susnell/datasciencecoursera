@@ -1,4 +1,4 @@
 datasciencecoursera
 ===================
 
-Data Science MOOC 2014
+Data Science MOOC
